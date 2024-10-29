@@ -6,10 +6,8 @@ We ensure that all data usage adheres to the principles outlined in the Develope
 
 -  contextMenus: Allows users to access translation options for selected text.
 -  tts: Enables text-to-speech capabilities for pronunciation assistance.
--  tabs: Facilitates opening new tabs for translation results and settings.
 -  storage: Stores user preferences and saved words locally for enhanced user experience.
 -  unlimitedStorage: Provides the ability to save an extensive list of words and phrases without hitting storage limits.
--  scripting: Executes scripts for text retrieval and interaction with web pages.
 -  host access: Allows the extension to connect to Google Translate for fetching translations.
 
 ## User Privacy
