@@ -9,6 +9,7 @@ We ensure that all data usage adheres to the principles outlined in the Develope
 -  storage: Stores user preferences and saved words locally for enhanced user experience.
 -  unlimitedStorage: Provides the ability to save an extensive list of words and phrases without hitting storage limits.
 -  host access: Allows the extension to connect to Google Translate for fetching translations.
+-  offscreen: Enables background Optical Character Recognition (OCR) processing to operate without affecting the user’s active browsing experience.
 
 ## User Privacy
 No personal information is collected, shared, or stored by this extension. All data is handled securely, ensuring that user privacy is maintained at all times.
